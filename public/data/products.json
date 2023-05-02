@@ -1,0 +1,52 @@
+[
+    {
+      "title": "Microsoft Office",
+      "description": "A suite of productivity applications, including Word, Excel, PowerPoint, and Outlook.",
+      "image_url": "https://cdn.vox-cdn.com/thumbor/N-HyJ6lPz7U5-6U5z5UZc6ePZjE=/0x0:640x427/920x613/filters:focal(256x154:352x250):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/49202021/Office_365_logo_2017.0.png"
+    },
+    {
+      "title": "Google Chrome",
+      "description": "A web browser developed by Google that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.",
+      "image_url": "https://www.google.com/images/branding/product/2x/chrome_512dp.png"
+    },
+    {
+      "title": "Adobe Photoshop",
+      "description": "A graphics editing software that is widely used for image editing, retouching, and photo manipulation.",
+      "image_url": "https://www.adobe.com/content/dam/cc/icons/photoshop-mobile.svg"
+    },
+    {
+      "title": "Zoom",
+      "description": "A video conferencing software that allows users to conduct virtual meetings, webinars, and online events.",
+      "image_url": "https://cdn.vox-cdn.com/thumbor/HJhcygRf8GzWPD_WKjQwnffx44I=/0x0:4000x2667/920x613/filters:focal(1680x661:2320x1301):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65635962/zoomlogo.0.png"
+    },
+    {
+      "title": "Slack",
+      "description": "A team communication tool that brings together all of a team's messages, files, and apps in one place.",
+      "image_url": "https://a.slack-edge.com/80334/marketing/img/meta/slack_hash_256.png"
+    },
+    {
+      "title": "GitHub",
+      "description": "A web-based platform for version control and collaboration that enables developers to work on projects together.",
+      "image_url": "https://github.githubassets.com/images/modules/logos_page/Octocat.png"
+    },
+    {
+      "title": "WordPress",
+      "description": "A content management system that allows users to easily create and manage websites, blogs, and online stores.",
+      "image_url": "https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png"
+    },
+    {
+      "title": "Adobe Illustrator",
+      "description": "A vector graphics editor that is used to create logos, icons, typography, and other graphics.",
+      "image_url": "https://www.adobe.com/content/dam/cc/icons/ai.svg"
+    },
+    {
+      "title": "Dropbox",
+      "description": "A cloud storage service that allows users to store and share files and folders with others.",
+      "image_url": "https://cfl.dropboxstatic.com/static/images/brand/logos/glyph-vflU6FAsY.svg"
+    },
+    {
+      "title": "Skype",
+      "description": "A telecommunications application that provides video chat and voice calls between computers, tablets, mobile devices, and smartwatches.",
+      "image_url": ""
+    }
+]  
